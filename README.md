@@ -2,7 +2,11 @@
 Self-taught RL concept + Self-make project
 
 Resources:
+  Github: https://github.com/dennybritz/reinforcement-learning
+  
   Book:  https://www.amazon.com/Deep-Reinforcement-Learning-Python-Hands/dp/0135172381
+  
+  Book: Foundation of Deep RL - LibGen
   
   Deepmind: https://deepmind.com/learning-resources/reinforcement-learning-lectures-series-2018
   
